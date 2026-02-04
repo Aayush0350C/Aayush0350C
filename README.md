@@ -1,4 +1,4 @@
-# **Hi 👋, I'm Aaush Roka!** <br> &nbsp; [![Follow](https://img.shields.io/github/followers/Aayush0350C?label=Followers&style=social)](https://github.com/Aayush0350C)
+# **Hi 👋, I'm Aaush Roka!** <br> &nbsp; [![Follow](https://img.shields.io/github/followers/Aayush0350C?label=Followers&style=social)](https://github.com/Aayush0350C?tab=followers)
  ### About Me
  &nbsp; I'm a CS student who loves to explore and learn new skills!
  ### What i rely on -
